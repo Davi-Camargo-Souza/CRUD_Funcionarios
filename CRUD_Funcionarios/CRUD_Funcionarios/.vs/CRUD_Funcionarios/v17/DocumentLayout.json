@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8612CD8-289F-459F-9E31-850FFC2E9CC7}|CRUD_Funcionarios\\CRUD_Funcionarios.WebAPI.csproj|c:\\users\\camar\\onedrive\\\u00E1rea de trabalho\\dev\\.net projetos\\crud_funcionarios\\crud_funcionarios\\crud_funcionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8612CD8-289F-459F-9E31-850FFC2E9CC7}|CRUD_Funcionarios\\CRUD_Funcionarios.WebAPI.csproj|solutionrelative:crud_funcionarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8612CD8-289F-459F-9E31-850FFC2E9CC7}|CRUD_Funcionarios\\CRUD_Funcionarios.WebAPI.csproj|c:\\users\\camar\\onedrive\\\u00E1rea de trabalho\\dev\\.net projetos\\crud_funcionarios\\crud_funcionarios\\crud_funcionarios\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8612CD8-289F-459F-9E31-850FFC2E9CC7}|CRUD_Funcionarios\\CRUD_Funcionarios.WebAPI.csproj|solutionrelative:crud_funcionarios\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8612CD8-289F-459F-9E31-850FFC2E9CC7}|CRUD_Funcionarios\\CRUD_Funcionarios.WebAPI.csproj|c:\\users\\camar\\onedrive\\\u00E1rea de trabalho\\dev\\.net projetos\\crud_funcionarios\\crud_funcionarios\\crud_funcionarios\\services\\funcionario\\funcionariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8612CD8-289F-459F-9E31-850FFC2E9CC7}|CRUD_Funcionarios\\CRUD_Funcionarios.WebAPI.csproj|solutionrelative:crud_funcionarios\\services\\funcionario\\funcionariosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8612CD8-289F-459F-9E31-850FFC2E9CC7}|CRUD_Funcionarios\\CRUD_Funcionarios.WebAPI.csproj|c:\\users\\camar\\onedrive\\\u00E1rea de trabalho\\dev\\.net projetos\\crud_funcionarios\\crud_funcionarios\\crud_funcionarios\\services\\funcionario\\funcionariosserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8612CD8-289F-459F-9E31-850FFC2E9CC7}|CRUD_Funcionarios\\CRUD_Funcionarios.WebAPI.csproj|solutionrelative:crud_funcionarios\\services\\funcionario\\funcionariosserviceinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9281CA-D9FF-474F-B19A-A2DB4E9C0BF3}|CRUD_Funcionarios.Persistence\\CRUD_Funcionarios.Persistence.csproj|c:\\users\\camar\\onedrive\\\u00E1rea de trabalho\\dev\\.net projetos\\crud_funcionarios\\crud_funcionarios\\crud_funcionarios.persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9281CA-D9FF-474F-B19A-A2DB4E9C0BF3}|CRUD_Funcionarios.Persistence\\CRUD_Funcionarios.Persistence.csproj|solutionrelative:crud_funcionarios.persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C529E182-A8BE-48C7-BD6C-F46D30CE6336}|CRUD_Funcionarios.Domain\\CRUD_Funcionarios.Domain.csproj|c:\\users\\camar\\onedrive\\\u00E1rea de trabalho\\dev\\.net projetos\\crud_funcionarios\\crud_funcionarios\\crud_funcionarios.domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C529E182-A8BE-48C7-BD6C-F46D30CE6336}|CRUD_Funcionarios.Domain\\CRUD_Funcionarios.Domain.csproj|solutionrelative:crud_funcionarios.domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C529E182-A8BE-48C7-BD6C-F46D30CE6336}|CRUD_Funcionarios.Domain\\CRUD_Funcionarios.Domain.csproj|c:\\users\\camar\\onedrive\\\u00E1rea de trabalho\\dev\\.net projetos\\crud_funcionarios\\crud_funcionarios\\crud_funcionarios.domain\\interfaces\\ifuncionariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C529E182-A8BE-48C7-BD6C-F46D30CE6336}|CRUD_Funcionarios.Domain\\CRUD_Funcionarios.Domain.csproj|solutionrelative:crud_funcionarios.domain\\interfaces\\ifuncionariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD9281CA-D9FF-474F-B19A-A2DB4E9C0BF3}|CRUD_Funcionarios.Persistence\\CRUD_Funcionarios.Persistence.csproj|c:\\users\\camar\\onedrive\\\u00E1rea de trabalho\\dev\\.net projetos\\crud_funcionarios\\crud_funcionarios\\crud_funcionarios.persistence\\repositories\\funcionariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD9281CA-D9FF-474F-B19A-A2DB4E9C0BF3}|CRUD_Funcionarios.Persistence\\CRUD_Funcionarios.Persistence.csproj|solutionrelative:crud_funcionarios.persistence\\repositories\\funcionariosrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FuncionariosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios.Persistence\\Repositories\\FuncionariosRepository.cs",
+              "RelativeDocumentMoniker": "CRUD_Funcionarios.Persistence\\Repositories\\FuncionariosRepository.cs",
+              "ToolTip": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios.Persistence\\Repositories\\FuncionariosRepository.cs",
+              "RelativeToolTip": "CRUD_Funcionarios.Persistence\\Repositories\\FuncionariosRepository.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAuwFAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:53:33.761Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "CRUD_Funcionarios\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "CRUD_Funcionarios\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAASwFMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T06:28:42.28Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD_Funcionarios\\Program.cs",
+              "ToolTip": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios\\Program.cs",
+              "RelativeToolTip": "CRUD_Funcionarios\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAASwDoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:34:15.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios.Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "CRUD_Funcionarios.Domain\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios.Domain\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "CRUD_Funcionarios.Domain\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:29:42.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios.Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "CRUD_Funcionarios.Persistence\\Repositories\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios.Persistence\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "CRUD_Funcionarios.Persistence\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAEwCgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:23:04.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionariosServiceInterface.cs",
+              "DocumentMoniker": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios\\Services\\Funcionario\\FuncionariosServiceInterface.cs",
+              "RelativeDocumentMoniker": "CRUD_Funcionarios\\Services\\Funcionario\\FuncionariosServiceInterface.cs",
+              "ToolTip": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios\\Services\\Funcionario\\FuncionariosServiceInterface.cs",
+              "RelativeToolTip": "CRUD_Funcionarios\\Services\\Funcionario\\FuncionariosServiceInterface.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:02:45.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFuncionariosRepository.cs",
+              "DocumentMoniker": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios.Domain\\Interfaces\\IFuncionariosRepository.cs",
+              "RelativeDocumentMoniker": "CRUD_Funcionarios.Domain\\Interfaces\\IFuncionariosRepository.cs",
+              "ToolTip": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios.Domain\\Interfaces\\IFuncionariosRepository.cs",
+              "RelativeToolTip": "CRUD_Funcionarios.Domain\\Interfaces\\IFuncionariosRepository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAnwA4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T00:01:05.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionariosService.cs",
+              "DocumentMoniker": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios\\Services\\Funcionario\\FuncionariosService.cs",
+              "RelativeDocumentMoniker": "CRUD_Funcionarios\\Services\\Funcionario\\FuncionariosService.cs",
+              "ToolTip": "C:\\Users\\camar\\OneDrive\\\u00C1rea de Trabalho\\Dev\\.NET Projetos\\CRUD_Funcionarios\\CRUD_Funcionarios\\CRUD_Funcionarios\\Services\\Funcionario\\FuncionariosService.cs",
+              "RelativeToolTip": "CRUD_Funcionarios\\Services\\Funcionario\\FuncionariosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T23:52:46.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

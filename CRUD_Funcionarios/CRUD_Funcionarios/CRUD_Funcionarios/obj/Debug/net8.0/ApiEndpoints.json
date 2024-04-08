@@ -1,0 +1,322 @@
+[
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "GetAllFuncionarios",
+    "RelativePath": "api/Funcionario",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "CreateFuncionario",
+    "RelativePath": "api/Funcionario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "funcionario",
+        "Type": "CRUD_Funcionarios.Domain.Entities.FuncionarioEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "DeleteFuncionario",
+    "RelativePath": "api/Funcionario",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "GetAllFuncionariosByDepartamento",
+    "RelativePath": "api/Funcionario/AllFuncionariosByDepartamento",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "departamento",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "GetAllFuncionariosByTurno",
+    "RelativePath": "api/Funcionario/AllFuncionariosByTurno",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "turno",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "AtivarFuncionario",
+    "RelativePath": "api/Funcionario/Ativar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "GetAllFuncionariosAtivos",
+    "RelativePath": "api/Funcionario/Ativos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "GetFuncionarioByCPF",
+    "RelativePath": "api/Funcionario/CPF",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cpf",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "GetFuncionarioByEmail",
+    "RelativePath": "api/Funcionario/Email",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "GetFuncionarioById",
+    "RelativePath": "api/Funcionario/Id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "InativarFuncionario",
+    "RelativePath": "api/Funcionario/Inativar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "GetAllFuncionariosInativos",
+    "RelativePath": "api/Funcionario/Inativos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CRUD_Funcionarios.WebAPI.Controllers.FuncionarioController",
+    "Method": "UpdateFuncionario",
+    "RelativePath": "api/Funcionario/UpdateFuncionario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "funcionario",
+        "Type": "CRUD_Funcionarios.Domain.Entities.FuncionarioEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CRUD_Funcionarios.DTOs.ServiceResponse\u00601[[System.Collections.Generic.List\u00601[[CRUD_Funcionarios.Domain.Entities.FuncionarioEntity, CRUD_Funcionarios.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]], System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
